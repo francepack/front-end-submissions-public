@@ -82,9 +82,9 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 ## Mason France
 
-* [Node Server Tutorial]()
-* [Annotated Express server file]()
-* [Promise Practice Exercises]()
+* [Node Server Tutorial](https://github.com/francepack/FranceMod4prework)
+* [Annotated Express server file](https://github.com/francepack/trapper-keeper-api/tree/france-notes)
+* [Promise Practice Exercises](https://repl.it/@francepack/mod4promise)
 
 ## Michael Krog
 
